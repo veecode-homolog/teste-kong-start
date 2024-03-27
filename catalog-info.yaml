@@ -4,7 +4,7 @@ metadata:
   name: "teste-kong-start"
   environment:
     cluster_type: ec2
-    public_ip: 44.219.80.30
+    public_ip: 52.207.30.212
   annotations:
     github.com/project-slug: veecode-homolog/teste-kong-start
     backstage.io/techdocs-ref: dir:.
